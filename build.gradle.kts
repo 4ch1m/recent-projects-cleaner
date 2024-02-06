@@ -51,6 +51,7 @@ tasks {
     }
 
     patchPluginXml {
+        pluginDescription.set(properties("pluginDescription"))
         version.set(properties("pluginVersion"))
         sinceBuild.set(properties("pluginSinceBuild"))
         changeNotes.set(provider {
