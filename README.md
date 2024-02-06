@@ -24,7 +24,7 @@ Use the IDE's built-in plugin system:
 * search for: `Recent Projects Cleaner`
 * click the `Install`-button
 
-Or go to the [plugin page](https://plugins.jetbrains.com/plugin/) on the [JetBrains](https://www.jetbrains.com)-website, download the archive-file and install manually.
+Or go to the [plugin page](https://plugins.jetbrains.com/plugin/23732-recent-projects-cleaner) on the [JetBrains](https://www.jetbrains.com)-website, download the archive-file and install manually.
 
 ## License
 
