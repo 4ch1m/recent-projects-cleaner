@@ -1,0 +1,16 @@
+<idea-plugin>
+    <id>de.achimonline.recent_projects_cleaner</id>
+    <name>Recent Projects Cleaner</name>
+
+    <vendor
+        email="intellij@achimonline.de"
+        url="https://www.achimonline.de">
+            Achim Seufert
+    </vendor>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <postStartupActivity implementation="de.achimonline.recent_projects_cleaner.RecentProjectsCleaner"/>
+    </extensions>
+</idea-plugin>
