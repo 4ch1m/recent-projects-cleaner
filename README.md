@@ -1,4 +1,4 @@
-# ![Recent Projects Cleaner](src/main/resources/META-INF/pluginIcon.png#gh-light-mode-only) ![Recent Projects Cleaner](src/main/resources/META-INF/pluginIcon_dark.png#gh-dark-mode-only) Recent Project Cleaner
+# ![Recent Projects Cleaner](src/main/resources/META-INF/pluginIcon.png#gh-light-mode-only) ![Recent Projects Cleaner](src/main/resources/META-INF/pluginIcon_dark.png#gh-dark-mode-only) Recent Projects Cleaner
 
 > A plugin for the IntelliJ platform that automatically removes orphaned entries in the "Recent Projects" list.
 
