@@ -1,3 +1,10 @@
+## [1.1.0]
+
+### Changed
+- required IDE version >= `2024.2`
+- major "Gradle IntelliJ Plugin" update (`1.17.4` to `2.0.1`)
+- Gradle-wrapper update
+
 ## [1.0.1]
 
 ### Changed

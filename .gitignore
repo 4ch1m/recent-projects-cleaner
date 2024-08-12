@@ -1,3 +1,6 @@
 .idea/
 .gradle/
+.kotlin/
+.intellijPlatform/
+.run/
 build/
