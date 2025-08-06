@@ -1,3 +1,13 @@
+## [1.2.0]
+
+### Fixed
+- compatibility with `2025.2`
+
+### Changed
+- required IDE version >= `2025.2`
+- Gradle-wrapper update
+- dependency updates
+
 ## [1.1.2]
 
 ### Changed
