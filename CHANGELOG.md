@@ -1,3 +1,9 @@
+## [1.2.1]
+
+### Changed
+- Gradle-wrapper update
+- dependency updates
+
 ## [1.2.0]
 
 ### Fixed
